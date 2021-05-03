@@ -1,0 +1,4 @@
+D:\VS_Project\eGBI_TempSensingTest\eGBI_TempSensingTest\bin\Debug\eGBI_TempSensingTest.exe
+D:\VS_Project\eGBI_TempSensingTest\eGBI_TempSensingTest\bin\Debug\eGBI_TempSensingTest.pdb
+D:\VS_Project\eGBI_TempSensingTest\eGBI_TempSensingTest\obj\x86\Debug\eGBI_TempSensingTest.exe
+D:\VS_Project\eGBI_TempSensingTest\eGBI_TempSensingTest\obj\x86\Debug\eGBI_TempSensingTest.pdb
